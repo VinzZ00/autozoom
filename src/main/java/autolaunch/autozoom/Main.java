@@ -130,7 +130,7 @@ public class Main {
 		
 		//construct webdriver
 		WebDriver driver = new ChromeDriver();
-    	
+    
 		//generate robot
 		Robot bot = null;
 		try {
